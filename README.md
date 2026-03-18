@@ -1,0 +1,2 @@
+RU:это исходник скин ченджера для игры Standoff 2.
+EN:This is the source code for the skin changer for Standoff
